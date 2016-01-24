@@ -1,0 +1,1 @@
+fromList [("No","Opposite of yes."),("Yes","Opposite of no."),("cat","A cute furry animal kept as a pet."),("computer","l'ordinateur"),("dog","A furry animal related to the wolf."),("exit;","A command that tried to exit the program."),("huehue","A brazillian meme."),("main11b",""),("no","Opposite of yes."),("yes","Opposite of no.")]
