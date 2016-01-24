@@ -1,0 +1,1 @@
+helloFunction = show "Hello"
